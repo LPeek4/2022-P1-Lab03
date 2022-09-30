@@ -8,7 +8,7 @@ public class Lab03vst
 {
 	public static void main(String[] args)
 	{
-      System.out.println("Lab03, 80 Point Version\n");
+      System.out.println("Lab03, 100 Point Version\n");
 
 	  int sm = 10000123;
 	  System.out.println("Starting Milli Seconds:  " + sm);
